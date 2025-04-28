@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\AtividaeUML\obj\Debug\AtividaeUML.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\AtividaeUML\obj\Debug\AtividaeUML.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\AtividaeUML\bin\Debug\AtividaeUML.exe.config
-C:\Users\User\source\repos\AtividaeUML\bin\Debug\AtividaeUML.exe
-C:\Users\User\source\repos\AtividaeUML\bin\Debug\AtividaeUML.pdb
-C:\Users\User\source\repos\AtividaeUML\obj\Debug\AtividaeUML.exe
-C:\Users\User\source\repos\AtividaeUML\obj\Debug\AtividaeUML.pdb
